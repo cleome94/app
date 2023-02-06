@@ -1,3 +1,4 @@
+// 필요한 기능 가져오기
 import { initializeApp } from "firebase/app";
 import { getFirestore} from '@firebase/firestore'
 
